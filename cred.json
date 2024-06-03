@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "painelmp",
+  "private_key_id": "5a5a330ef5e47a59828627cc28bf41f9fb06a4fd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCqAML8lXG8JfQT\nCpk+dJjVeDe2btSkdeQe6ZfIaCP2FSZDm/MbICzKIz83nMr/+lBmanlrNjS8T2Md\naE8xzqZLziAzCZjfQhPnBI13LbichcBzyYVs4mbk6Vvms6k4zmelXUH2RqKysT1f\npYx3hx37+o4d8fc7c1OGK+jgAN0I6fq2YcdKQi0wdDRLo3xvftTsPqqHiu8PaB0V\n2i0HSC0ZYkCqIyE5ooSksQvON6uEubumjvToLf5HLUEpJcHfzjxhLMBD1iAgf1mW\nujjoGDmWgnyiWcnAu0AJgxxQX3PXb4wedTNRY+xLZOML0xWMBo2QOyInHEvacEjC\nyZxGK9aRAgMBAAECggEAGDjO5LbU+K4eWOQxXMEM0ZrfspeXUUNsLayyBUoz7X5V\nRbF08ZAjsZKqEYi+h7r+NPQbZAIvgLEoTxVV9fkan+xjkWy0TQMY24Po4BUx8ONB\nvihKtsPfTeL4nCX3CMf9OTDQvX/nneGQ/A1rYSXC85cJzrceDGjB0CPLegxwHIfL\nz8rIb147EZCwkJm2H4+YBARXenvL5gMqedkzqlXf6tndFIsJQzYZmfL3QFxNqBp+\nzQgj4zNt6zNsrAYcmbUyzocAynUlP2ffJPBuqF77fFXijr9Eq8/iG0csMj+w8s5t\nRSTjHIvkRhC+NCxh50tNmd+ZbRTcyPBjbv0kPR6mXQKBgQDRuCt0ywutz4jyKoqC\nbUOr0fL/cvlPSzmRTvSDGJcDy3ORV6jpb/0YzcBzp4HLh4cRoBs20D79KZCxQC0L\nN0t/5FI4t8t1WkiZPY5pr3rhY+jg8gt4US11Miizk9XVbso7ihTaJqgnPkexerM6\n7RuvPlGe51t+c71fXR4cqZE7lwKBgQDPhNzNpQ5P775uCqCVOtDmM1ECiqszpLvs\n3XzLEpLeedAXNTsMSkx9SKwvsnFjxA8ixwzOsrlSI75JgMUU3TDw0quhajsEuDzX\nQ5aT6rxwIdINGY9kUF3q2XAxFHRBpbfM0lmiMNszzaMDGW3XP5Pog4nZwTiappdg\nQLTsXPvkFwKBgBPQgsqWJJRXd2jp/Aw2pp4lSAA6rLOBN/8ypod8W0hQgKrKzXrA\nyfj996D1wp2oQGq55dhX9JuWwcT9e0QEBW4f9GTHeMGttg5EcqAppEKHXgli1RKZ\nGOJpys6suRdhUFovwaia3mhWyg9KuIRowqTcDnolAdAAv3OzKJUssDwhAoGBAJdb\nGJEFKgMzoXkxVx6A34yHMTbhXS01obuJcFPNIEIUJqpGsOKt7kwSjUPcqsdRYJjF\nBZpc0L4QQ+HogdZN3jxH69a3XIR8vCNlsJYCR56hjErxsZxA4b9BCItDl+eprv09\nDxM0/ywxeAvyqCKuxHp6NjkUrOxfRVl22H7s8uvRAoGAGKILO0yF6b8sR8o1zVlv\nJtQMX+/8FTgav4NlmXVGfjLlQoegE+9xvBcXOKaZgXc5tNjMebo9e90Ah35xM5P7\nkwICVAaTARFI0Z4ZH14+ahOY08yn1139JZQxusfmRwKEZUg3u8rwL8q7iGbqqGSL\npvdiUhmVR1bnz6UArlDhj0c=\n-----END PRIVATE KEY-----\n",
+  "client_email": "painelmp01@painelmp.iam.gserviceaccount.com",
+  "client_id": "104147626070267496989",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/painelmp01%40painelmp.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
